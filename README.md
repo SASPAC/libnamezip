@@ -11,7 +11,7 @@ Package allows seamlessly push back and forward data from
 a SAS library to a compressed ZIP file. An interface is
 set through SAS views.
 
-SHA256 digest for the latest version of `libnameZip`: F*188F1E42A8F829BEF8F2D62A0A32B780994B0562EEC870C92528D25200C2E55A
+SHA256 digest for the latest version of `libnameZip`: F*7EB405957AA9684740B83195FDBCA3A3BFBD4AF31223FDAD39E9F32DB43DC9D5
 
 [**Documentation for libnameZip**](./libnamezip.md "Documentation for libnameZip")
 
